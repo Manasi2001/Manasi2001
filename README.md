@@ -19,7 +19,7 @@
 
 ### Check out my resume here:
 
-<a href="https://www.canva.com/design/DAEQYz2SPT8/share/preview?token=Jvd8bXtaLmnxp4s2PYfUBg&role=EDITOR&utm_content=DAEQYz2SPT8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+<a href="https://www.canva.com/design/DAEQYz2SPT8/G0m_Fjlbdr11QG8e9OVu_A/view?utm_content=DAEQYz2SPT8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <img
     alt="Canva"
     src="https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=blue&style=for-the-badge"
