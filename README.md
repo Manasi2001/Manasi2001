@@ -7,7 +7,7 @@
 📈 I have worked as:
    1. Data Science & Business Analytics Intern @The Sparks Foundation
    2. Machine Learning Intern @Widhya
-
+   
 ### You can reach me at: 
 
 <a href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
