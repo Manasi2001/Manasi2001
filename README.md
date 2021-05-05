@@ -45,3 +45,6 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 
 </p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manasi2001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
