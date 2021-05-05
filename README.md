@@ -1,7 +1,9 @@
 # Hi there!😀
 
 😎 I’m currently working as GSSOC'21 Open Source Contributer.
+
 👯 I’m looking to collaborate on Machine Learning projects!
+
 📈 I have worked as:
    1. Data Science & Business Analytics Intern @The Sparks Foundation
    2. Machine Learning Intern @Widhya
