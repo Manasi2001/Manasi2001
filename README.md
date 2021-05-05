@@ -1,5 +1,7 @@
 # Hi there!😀
 
+![](https://tenor.com/bhNGB.gif)
+
 😎 I’m currently working as GSSOC'21 Open Source Contributer.
 
 👯 I’m looking to collaborate on Machine Learning projects!
