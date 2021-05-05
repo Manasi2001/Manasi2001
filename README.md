@@ -5,20 +5,24 @@
 - 👯 I’m looking to collaborate on Machine Learning projects!
 
 You can reach me at: 
-
-<a href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
+<p href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
   <img
     alt="LinkedIn"
     src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=blue&style=for-the-badge"
   />
-</a>
-
+</p>
 
 Check out my resume here:
-
-<a href="https://www.canva.com/design/DAEQYz2SPT8/share/preview?token=Jvd8bXtaLmnxp4s2PYfUBg&role=EDITOR&utm_content=DAEQYz2SPT8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+<p href="https://www.canva.com/design/DAEQYz2SPT8/share/preview?token=Jvd8bXtaLmnxp4s2PYfUBg&role=EDITOR&utm_content=DAEQYz2SPT8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
   <img
     alt="Canva"
     src="https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=blue&style=for-the-badge"
   />
-</a>
+</p>
+
+Programming Languages and Technologies:
+<p>  
+  
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+
+</p>
