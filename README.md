@@ -7,6 +7,11 @@
 📫 How to reach me: 
 <p>
   
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=blue&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
+  <img
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=blue&style=for-the-badge"
+  />
+</a>
 
 </p>
