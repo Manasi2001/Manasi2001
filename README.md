@@ -1,12 +1,12 @@
 # Hi there!😀
 
-- 😎 I’m currently working as GSSOC'21 Open Source Contributer.
-- 👯 I’m looking to collaborate on Machine Learning projects!
-- 📈 I have worked as:
-- 1. Data Science & Business Analytics Intern @The Sparks Foundation
-- 2. Machine Learning Intern @Widhya
+😎 I’m currently working as GSSOC'21 Open Source Contributer.
+👯 I’m looking to collaborate on Machine Learning projects!
+📈 I have worked as:
+   1. Data Science & Business Analytics Intern @The Sparks Foundation
+   2. Machine Learning Intern @Widhya
 
-You can reach me at: 
+### You can reach me at: 
 <p href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
   <img
     alt="LinkedIn"
@@ -14,7 +14,7 @@ You can reach me at:
   />
 </p>
 
-Check out my resume here:
+### Check out my resume here:
 <p href="https://www.canva.com/design/DAEQYz2SPT8/share/preview?token=Jvd8bXtaLmnxp4s2PYfUBg&role=EDITOR&utm_content=DAEQYz2SPT8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
   <img
     alt="Canva"
@@ -22,7 +22,7 @@ Check out my resume here:
   />
 </p>
 
-Programming Languages and Technologies:
+### Programming Languages and Technologies:
 <p>  
   
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
