@@ -7,6 +7,6 @@
 📫 How to reach me: 
 <p>
   
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
+<img src="https://img.shields.io/badge/LinkedIn-#0A66C2?logo=LinkedIn&logoColor=blue&style=flat-square" />
 
 </p>
