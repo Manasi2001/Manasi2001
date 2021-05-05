@@ -1,6 +1,6 @@
 # Hi there!😀
 
-![](https://tenor.com/bhNGB.gif)
+<img src="https://cdn.dribbble.com/users/614270/screenshots/10760503/media/d46fd41ca7d697c5e30cddf7577f82a9.gif" align="right" width="400" height="300"/>
 
 😎 I’m currently working as GSSOC'21 Open Source Contributer.
 
