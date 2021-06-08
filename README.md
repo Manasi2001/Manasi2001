@@ -2,13 +2,14 @@
 
 <img src="https://cdn.dribbble.com/users/614270/screenshots/10760503/media/d46fd41ca7d697c5e30cddf7577f82a9.gif" align="right" width="400" height="300"/>
 
-😎 I’m currently working as GSSOC'21 Open Source Contributer.
+😎 I’m currently working as a Mentor for Let's Grow More - Summer of Code (LGM-SoC'21).
 
 👯 I’m looking to collaborate on Machine Learning projects!
 
 📈 I have worked as:
    1. Data Science & Business Analytics Intern @The Sparks Foundation
    2. Machine Learning Intern @Widhya
+   3. Open Source Contributor for GirlScript Summer of Code (GSSoC'21)
    
 ### You can reach me at: 
 
