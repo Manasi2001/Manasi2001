@@ -62,4 +62,5 @@
 </p>
 
 ### 🏆 Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=Manasi2001&theme=dracula" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manasi2001&theme=dracula)](https://github.com/Manasi/github-profile-trophy)
