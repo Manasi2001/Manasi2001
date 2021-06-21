@@ -11,7 +11,7 @@
    2. Machine Learning Intern @Widhya
    3. Open Source Contributor for GirlScript Summer of Code (GSSoC'21)
    
-### You can reach me at: 
+### 🌐 You can reach me at: 
 
 <a href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
   <img
@@ -20,7 +20,7 @@
   />
 </a>
 
-### Check out my resume here:
+### 📃 Check out my resume here:
 
 <a href="https://www.canva.com/design/DAEQYz2SPT8/G0m_Fjlbdr11QG8e9OVu_A/view?utm_content=DAEQYz2SPT8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <img
@@ -29,7 +29,7 @@
   />
 </a>
 
-### Programming Languages and Technologies:
+### 💥 Programming Languages and Technologies:
 
 <p>  
   
@@ -52,9 +52,17 @@
 
 </p>
 
+### 😍 Profile Views:
+
+<img width="20%" src="https://profile-counter.glitch.me/{Manasi2001}/count.svg" /> 
+
+### 📈 Stats:
+
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manasi2001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=synthwave" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi2001&theme=synthwave" />  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manasi2001&theme=synthwave" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi2001&theme=synthwave" />  
 </p>
 
+### 🏆 Trophies:
 <img src="https://github-profile-trophy.vercel.app/?username=Manasi2001&theme=juicyfresh" />
