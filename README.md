@@ -56,4 +56,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi2001&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manasi2001&theme=buddhism" />
+<img src="https://github-profile-trophy.vercel.app/?username=Manasi2001&theme=dracula" />
