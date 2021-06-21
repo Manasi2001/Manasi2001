@@ -52,8 +52,9 @@
 
 </p>
 
+<p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manasi2001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=synthwave" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi2001&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasi2001&theme=synthwave" />  
+</p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Manasi2001&theme=juicyfresh" />
