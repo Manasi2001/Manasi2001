@@ -29,7 +29,7 @@
   />
 </a>
 
-### 💥 Programming Languages and Technologies:
+### 💥 Programming Languages and Technologies Known:
 
 <p>  
   
