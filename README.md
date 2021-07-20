@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/68627617/121176776-3d016900-c87a-11eb-83b1-35a8922a84e9.gif" align="right" width="300" height="225"/>
 
-😎 I’m currently working as a Mentor for Let's Grow More - Summer of Code (LGM-SoC'21).
+😎 I’m currentlyworking as a Mentor for Let's Grow More - Summer of Code (LGM-SoC'21).
 
 👯 I’m looking to collaborate on Machine Learning projects!
 
