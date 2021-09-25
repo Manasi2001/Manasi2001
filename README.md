@@ -2,14 +2,16 @@
 
 <img src="https://user-images.githubusercontent.com/68627617/121176776-3d016900-c87a-11eb-83b1-35a8922a84e9.gif" align="right" width="300" height="225"/>
 
-😎 I’m currently working as a Mentor for Let's Grow More - Summer of Code (LGM-SoC'21).
+😎 I’m currently working as an Artificial Intelligence Intern @IoTIoT.in.
 
 👯 I’m looking to collaborate on Machine Learning projects!
 
 📈 I have worked as:
    1. Data Science & Business Analytics Intern @The Sparks Foundation
    2. Machine Learning Intern @Widhya
-   3. Open Source Contributor for GirlScript Summer of Code (GSSoC'21)
+   3. Open Source Contributor for GirlScript Summer of Code (GSSoC'21): Rank '28' Achiever
+   4. Mentor for Let's Grow More Summer of Code (LGM-SoC'21)
+   5. Open Source Contributor for DevIncept Contribution Program (DCP'21): Rank '1' Achiever
    
 ### 🌐 You can reach me at: 
 
