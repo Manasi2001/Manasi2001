@@ -9,9 +9,9 @@
 📈 I have worked as:
    1. Data Science & Business Analytics Intern @The Sparks Foundation
    2. Machine Learning Intern @Widhya
-   3. Open Source Contributor for GirlScript Summer of Code (GSSoC'21): Rank '28' Achiever
+   3. Open Source Contributor for GirlScript Summer of Code (GSSoC'21): Rank **28** Achiever
    4. Mentor for Let's Grow More Summer of Code (LGM-SoC'21)
-   5. Open Source Contributor for DevIncept Contribution Program (DCP'21): Rank '1' Achiever
+   5. Open Source Contributor for DevIncept Contribution Program (DCP'21): Rank **1** Achiever
    
 ### 🌐 You can reach me at: 
 
