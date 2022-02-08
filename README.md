@@ -14,7 +14,7 @@
    5. Open Source Contributor for DevIncept Contribution Program (DCP'21): Rank **1** Achiever
    6. Artificial Intelligence Intern @IoTIoT.in
    
-### 🌐 You can reach me at: 
+### 🌐 You can reach me via: 
 
 <a href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
   <img
@@ -23,12 +23,26 @@
   />
 </a>
 
+<a href="mailto:manasichhibber@gmail.com">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://www.discordapp.com/users/Manasi#9128">
+  <img
+    alt="Discord"
+    src="https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=white&style=for-the-badge"
+  />
+</a>
+
 ### 📃 Check out my resume here:
 
 <a href="https://www.canva.com/design/DAEzbr8hj0Q/MNDT73ytexaK154sKTxeKQ/view?utm_content=DAEzbr8hj0Q&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
   <img
     alt="Canva"
-    src="https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=blue&style=for-the-badge"
+    src="https://img.shields.io/badge/Manasi_Chhibber_Resume-00C4CC?logoColor=blue&style=for-the-badge"
   />
 </a>
 
@@ -37,18 +51,18 @@
 <a href="https://www.kaggle.com/manasichhibber">
   <img
     alt="Kaggle"
-    src="https://img.shields.io/badge/Kaggle-00599C?logo=Kaggle&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Kaggle-F37626?logo=Kaggle&logoColor=white&style=for-the-badge"
   />
 </a>
 
 <a href="https://devpost.com/manasichhibber?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
   <img
     alt="Devpost"
-    src="https://img.shields.io/badge/Devpost-00599C?logo=Devpost&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Devpost-66595C?logo=Devpost&logoColor=white&style=for-the-badge"
   />
 </a>
 
-### 💥 Programming Languages and Technologies Known:
+### 💥 Tech Stack:
 
 <p>  
   
