@@ -14,7 +14,7 @@
    5. Open Source Contributor for DevIncept Contribution Program (DCP'21): Rank **1** Achiever
    6. Artificial Intelligence Intern @IoTIoT.in
    
-### 🌐 You can reach me via: 
+### 🌐 Reach me via: 
 
 <a href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
   <img
