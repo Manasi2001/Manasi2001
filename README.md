@@ -2,15 +2,7 @@
    <h1> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h1>
 </div>
 
-<p class="marquee">
-   <span>
-       Welcome to my GitHub profile!
-   </span>
-</p>
-
-<img src="https://user-images.githubusercontent.com/68627617/121176776-3d016900-c87a-11eb-83b1-35a8922a84e9.gif" align="right" width="300" height="225"/>
-
-😎 I’m currently freelancing at Upwork.
+😎 I’m a pre-final year B.Tech AI student & an ML enthusiast.
 
 👯 Got an idea in mind? Let's make it a reality with AI!
 
@@ -22,6 +14,8 @@
    5. Open Source Contributor for DevIncept Contribution Program (DCP'21): Rank **1** Achiever
    6. Artificial Intelligence Intern @IoTIoT.in
    
+<img src="https://user-images.githubusercontent.com/68627617/121176776-3d016900-c87a-11eb-83b1-35a8922a84e9.gif" align="right" width="350" height="280"/>
+
 ### 🌐 Reach me via: 
 
 <a href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
