@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/manasi-chhibber-8443a7193/">
   <img
     alt="LinkedIn"
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=blue&style=for-the-badge"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge"
   />
 </a>
 
@@ -29,6 +29,22 @@
   <img
     alt="Canva"
     src="https://img.shields.io/badge/Canva-00C4CC?logo=Canva&logoColor=blue&style=for-the-badge"
+  />
+</a>
+
+### Let's collaborate on:
+
+<a href="https://www.kaggle.com/manasichhibber">
+  <img
+    alt="Kaggle"
+    src="https://img.shields.io/badge/Kaggle-00599C?logo=Kaggle&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://devpost.com/manasichhibber?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <img
+    alt="Devpost"
+    src="https://img.shields.io/badge/Devpost-00599C?logo=Devpost&logoColor=white&style=for-the-badge"
   />
 </a>
 
