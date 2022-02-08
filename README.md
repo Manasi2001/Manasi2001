@@ -63,6 +63,7 @@
 <img src="https://img.shields.io/badge/Azure_ML_Studio-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> 
 <img src="https://img.shields.io/badge/IBM Watson-BE95FF?style=for-the-badge&logo=IBM-Watson&logoColor=white"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-87CF3E?style=for-the-badge&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
