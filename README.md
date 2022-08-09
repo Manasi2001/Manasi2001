@@ -13,6 +13,7 @@
    4. Mentor for Let's Grow More Summer of Code (LGM-SoC'21)
    5. Open Source Contributor for DevIncept Contribution Program (DCP'21): Rank **1** Achiever
    6. Artificial Intelligence Intern @IoTIoT.in
+   7. AI/ML Intern @Tech Mahindra
    
 <img src="https://user-images.githubusercontent.com/68627617/121176776-3d016900-c87a-11eb-83b1-35a8922a84e9.gif" align="right" width="350" height="280"/>
 
