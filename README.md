@@ -44,7 +44,7 @@
 
 ### 📃 Check out my resume here:
 
-<a href="https://www.canva.com/design/DAFhc29m5DM/aSI1xhe-Sz9jdh45E9cf8Q/edit?utm_content=DAFhc29m5DM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<a href="https://www.canva.com/design/DAFhc29m5DM/HzsErXvNx8sJd9aDSe9Zmw/view?utm_content=DAFhc29m5DM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <img
     alt="Canva"
     src="https://img.shields.io/badge/Manasi_Chhibber_Resume-00C4CC?logoColor=blue&style=for-the-badge"
