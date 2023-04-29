@@ -2,7 +2,7 @@
    <h1> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h1>
 </div>
 
-😎 I’m a pre-final year B.Tech AI student & an ML enthusiast.
+😎 I’m a final year B.Tech AI student & an ML enthusiast.
 
 👯 Got an idea in mind? Let's make it a reality with AI!
 
