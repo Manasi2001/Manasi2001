@@ -2,7 +2,7 @@
    <h1> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h1>
 </div>
 
-😎 I’m a final year B.Tech AI student & an ML enthusiast.
+😎 I’m an Artificial Intelligence Engineer pursuing Masters of Computer Science from University of Eastern Finland (Finland Scholarship).
 
 👯 Got an idea in mind? Let's make it a reality with AI!
 
@@ -16,6 +16,7 @@
    7. AI/ML Intern @Tech Mahindra
    8. AI Intern @Cognozire
    9. Engineer Trainee-Data Scientist @JK Papers
+   10. AI Engineer @Cognozire [Present]
    
 <img src="https://user-images.githubusercontent.com/68627617/121176776-3d016900-c87a-11eb-83b1-35a8922a84e9.gif" align="right" width="350" height="280"/>
 
