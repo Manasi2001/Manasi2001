@@ -2,7 +2,7 @@
    <h1> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h1>
 </div>
 
-😎 I’m an Artificial Intelligence Engineer pursuing Masters of Computer Science from University of Eastern Finland (Finland Scholarship).
+😎 I’m an **Artificial Intelligence Engineer** pursuing **Masters of Computer Science from University of Eastern Finland** (Finland Scholarship).
 
 👯 Got an idea in mind? Let's make it a reality with AI!
 
