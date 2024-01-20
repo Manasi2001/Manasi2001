@@ -16,7 +16,8 @@
    7. AI/ML Intern @Tech Mahindra
    8. AI Intern @Cognozire
    9. Engineer Trainee-Data Scientist @JK Papers
-   10. AI Engineer @Cognozire [Present]
+   10. AI Engineer @Cognozire 
+   11. Research Assistant @School of Computing, University of Eastern Finland [Present]
    
 <img src="https://user-images.githubusercontent.com/68627617/121176776-3d016900-c87a-11eb-83b1-35a8922a84e9.gif" align="right" width="350" height="280"/>
 
