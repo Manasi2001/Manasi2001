@@ -91,10 +91,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 
-### 😍 Profile Views:
-
-<img width="20%" src="https://profile-counter.glitch.me/{Manasi2001}/count.svg" /> 
-
 ### 📈 Stats:
 
 <p align="left">
