@@ -90,14 +90,3 @@
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-
-### 📈 Stats:
-
-<p align="left">
-<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Manasi2001&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=synthwave" /> 
-<img width="48%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manasi2001&theme=synthwave" />
-</p>
-
-### 🏆 Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manasi2001&theme=dracula)](https://github.com/Manasi/github-profile-trophy)
